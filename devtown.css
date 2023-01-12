@@ -1,0 +1,78 @@
+#maindiv{
+    padding: 60px 60px;
+}
+h1{
+    color: #6422cd;
+    top: 1px;
+    left: 2px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+span{
+    color: #4f4f4f;
+}
+
+
+.btn{
+    background-color: #6422cd;
+    color: white;
+
+}
+
+.topbg{
+    flex-basis: 25%;
+    margin-bottom: 50px;
+    opacity: 50%;
+}
+
+#h1sub{
+    color: #333;
+    top: 1px;
+    left: 2px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+h3{
+    color: #333;
+}
+
+h3 p{
+    color: #2d3748;
+}
+
+#h1sub2{
+    align-items: center;
+}
+
+.footer{
+    padding: 50px 15% 10px;
+    color: white;
+    background: #011535;
+}
+
+.footer h2{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.footer .col{
+    flex-basis: 25%;
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+
+.footer .col a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.footer .row{
+    align-items: flex-start;
+    padding: 10px 0;
+}
