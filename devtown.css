@@ -46,6 +46,10 @@ h3 p{
     align-items: center;
 }
 
+.imgsize{
+    width: 100%;
+}
+
 .footer{
     padding: 50px 15% 10px;
     color: white;
